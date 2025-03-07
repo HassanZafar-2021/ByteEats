@@ -19,7 +19,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-1. git clone https://github.com/your-username/SilentBite.git
+1. git clone https://github.com/HassanZafar-2021/ByteEats.git
 2. cd ByteEats
 3. Python3 order_system.py (if Python3 is installed)
 
@@ -30,7 +30,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 3. Place order
 4. View Receipt
 
-![alt text](../Assets/python-terminal-receipt.png)
+![alt text](image.png)
 
 ## Credits
 
